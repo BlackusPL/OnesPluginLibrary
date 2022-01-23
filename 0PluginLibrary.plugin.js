@@ -1,9 +1,8 @@
 /**
  * @name ZeresPluginLibrary
  * @version 1.2.35
- * @invite TyFxKer
- * @authorLink https://github.com/BlackusPL/OnesPluginLibrary
- * @website https://github.com/rauenzi/BDPluginLibrary
+ * @authorLink https://github.com/BlackusPL
+ * @website https://github.com/BlackusPL/OnesPluginLibrary
  */
 
 /*@cc_on
@@ -131,13 +130,13 @@ module.exports = {
         authors: [{
             name: "Zerebos, Fixed by BlackusPL",
             discord_id: "249746236008169473",
-            github_username: "rauenzi",
-            twitter_username: "IAmZerebos"
+            github_username: "BlackusPL",
+            twitter_username: "BlackusPL"
         }],
         version: "1.2.35",
         description: "Gives other plugins utility functions and the ability to emulate v2. (old version with `DiscordAPI`)",
         github: "https://github.com/BlackusPL/OnesPluginLibrary",
-        github_raw: ""
+        github_raw: "https://raw.githubusercontent.com/BlackusPL/OnesPluginLibrary/main/0PluginLibrary.plugin.js"
     },
     changelog: [
         {
