@@ -1,6 +1,6 @@
 /**
  * @name ZeresPluginLibrary
- * @version 1.2.35
+ * @version 2.0.0
  * @authorLink https://github.com/BlackusPL
  * @website https://github.com/BlackusPL/OnesPluginLibrary
  */
@@ -133,7 +133,7 @@ module.exports = {
             github_username: "BlackusPL",
             twitter_username: "BlackusPL"
         }],
-        version: "1.2.35",
+        version: "2.0.0",
         description: "Gives other plugins utility functions and the ability to emulate v2. (old version with `DiscordAPI`)",
         github: "https://github.com/BlackusPL/OnesPluginLibrary",
         github_raw: "https://raw.githubusercontent.com/BlackusPL/OnesPluginLibrary/main/0PluginLibrary.plugin.js"
