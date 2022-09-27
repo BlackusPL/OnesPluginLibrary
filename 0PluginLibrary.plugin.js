@@ -1,6 +1,6 @@
 /**
  * @name ZeresPluginLibrary
- * @version 2.0.3
+ * @version 9.9.9
  * @authorLink https://github.com/BlackusPL
  * @website https://github.com/BlackusPL/OnesPluginLibrary
  */
