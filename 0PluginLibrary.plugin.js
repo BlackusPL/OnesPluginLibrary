@@ -133,8 +133,8 @@ module.exports = {
             github_username: "BlackusPL",
             twitter_username: "BlackusPL"
         }],
-        version: "2.0.3",
-        description: "Gives other plugins utility functions and the ability to emulate v2. (old version with `DiscordAPI`)",
+        version: "9.9.9",
+        description: "Gives other plugins utility functions and the ability to emulate v2. (old version with `DiscordAPI`) (BROKEN BY BD V.1.7.0)",
         github: "https://github.com/BlackusPL/OnesPluginLibrary",
         github_raw: "https://raw.githubusercontent.com/BlackusPL/OnesPluginLibrary/main/0PluginLibrary.plugin.js"
     },
@@ -144,6 +144,13 @@ module.exports = {
             type: "fixed",
             items: [
                 "`DiscordAPI` module back (now works).","Now plugins doesn't download broken version","Wait for new version of ZeresPluginLibrary where `DiscordAPI` will back."
+            ]
+        },
+        {
+            title: "Broken",
+            type: "Bug",
+            items: [
+                "`BetterDiscord v1.7.0` Broke this plugin and im not gonna fix it"
             ]
         }
     ],
